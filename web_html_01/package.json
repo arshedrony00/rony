@@ -1,0 +1,8 @@
+{
+    "name": "web_html_01",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Rony",
+    "contributors": [],
+    "dependencies": {}
+}
